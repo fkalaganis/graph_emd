@@ -3,3 +3,5 @@ This repository contains te code used in "A Data Augmentation Scheme for Geometr
 
 The file that implements the data augmentation is the emd_augmentation.m
 All the arguments are well documented within the code.
+
+Since the exemplar augemented dataset is larger that the github limit it is provided separarely here:
